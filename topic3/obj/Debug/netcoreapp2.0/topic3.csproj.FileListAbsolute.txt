@@ -1,0 +1,11 @@
+/Users/chris.lee/topic3/bin/Debug/netcoreapp2.0/topic3.deps.json
+/Users/chris.lee/topic3/bin/Debug/netcoreapp2.0/topic3.runtimeconfig.json
+/Users/chris.lee/topic3/bin/Debug/netcoreapp2.0/topic3.runtimeconfig.dev.json
+/Users/chris.lee/topic3/bin/Debug/netcoreapp2.0/topic3.dll
+/Users/chris.lee/topic3/bin/Debug/netcoreapp2.0/topic3.pdb
+/Users/chris.lee/topic3/obj/Debug/netcoreapp2.0/topic3.csprojResolveAssemblyReference.cache
+/Users/chris.lee/topic3/obj/Debug/netcoreapp2.0/topic3.csproj.CoreCompileInputs.cache
+/Users/chris.lee/topic3/obj/Debug/netcoreapp2.0/topic3.AssemblyInfoInputs.cache
+/Users/chris.lee/topic3/obj/Debug/netcoreapp2.0/topic3.AssemblyInfo.cs
+/Users/chris.lee/topic3/obj/Debug/netcoreapp2.0/topic3.dll
+/Users/chris.lee/topic3/obj/Debug/netcoreapp2.0/topic3.pdb
