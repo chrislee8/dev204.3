@@ -1,0 +1,11 @@
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/Debug/netcoreapp2.0/bubblesort.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/Debug/netcoreapp2.0/bubblesort.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/Debug/netcoreapp2.0/bubblesort.AssemblyInfo.cs
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bin/Debug/netcoreapp2.0/bubblesort.deps.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bin/Debug/netcoreapp2.0/bubblesort.runtimeconfig.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bin/Debug/netcoreapp2.0/bubblesort.runtimeconfig.dev.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bin/Debug/netcoreapp2.0/bubblesort.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bin/Debug/netcoreapp2.0/bubblesort.pdb
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/Debug/netcoreapp2.0/bubblesort.csprojResolveAssemblyReference.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/Debug/netcoreapp2.0/bubblesort.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/Debug/netcoreapp2.0/bubblesort.pdb
