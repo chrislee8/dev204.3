@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "bubblesort/1.0.0": {
+      "insertsort/1.0.0": {
         "runtime": {
-          "bubblesort.dll": {}
+          "insertsort.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "bubblesort/1.0.0": {
+    "insertsort/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

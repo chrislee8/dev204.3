@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bubblesort.csproj",
-      "projectName": "bubblesort",
-      "projectPath": "/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/bubblesort.csproj",
+      "projectUniqueName": "/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/insertsort.csproj",
+      "projectName": "insertsort",
+      "projectPath": "/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/insertsort.csproj",
       "packagesPath": "/Users/chris.lee/.nuget/packages/",
-      "outputPath": "/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/bubblesort/obj/",
+      "outputPath": "/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

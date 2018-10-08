@@ -1,0 +1,11 @@
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/bin/Debug/netcoreapp2.0/insertsort.deps.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/bin/Debug/netcoreapp2.0/insertsort.runtimeconfig.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/bin/Debug/netcoreapp2.0/insertsort.runtimeconfig.dev.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/bin/Debug/netcoreapp2.0/insertsort.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/bin/Debug/netcoreapp2.0/insertsort.pdb
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/Debug/netcoreapp2.0/insertsort.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/Debug/netcoreapp2.0/insertsort.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/Debug/netcoreapp2.0/insertsort.AssemblyInfo.cs
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/Debug/netcoreapp2.0/insertsort.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/Debug/netcoreapp2.0/insertsort.pdb
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/insertsort/obj/Debug/netcoreapp2.0/insertsort.csprojResolveAssemblyReference.cache
