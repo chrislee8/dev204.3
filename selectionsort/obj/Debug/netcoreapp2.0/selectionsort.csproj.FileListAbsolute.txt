@@ -1,0 +1,10 @@
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/obj/Debug/netcoreapp2.0/selectionsort.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/obj/Debug/netcoreapp2.0/selectionsort.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/obj/Debug/netcoreapp2.0/selectionsort.AssemblyInfo.cs
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/bin/Debug/netcoreapp2.0/selectionsort.deps.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/bin/Debug/netcoreapp2.0/selectionsort.runtimeconfig.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/bin/Debug/netcoreapp2.0/selectionsort.runtimeconfig.dev.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/bin/Debug/netcoreapp2.0/selectionsort.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/bin/Debug/netcoreapp2.0/selectionsort.pdb
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/obj/Debug/netcoreapp2.0/selectionsort.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/selectionsort/obj/Debug/netcoreapp2.0/selectionsort.pdb
