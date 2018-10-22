@@ -19,7 +19,7 @@ namespace selectionsort{
 
         static int[] sort(int[] before) {
             
-            for (int i=0;i<before.Length;i++)
+            for (int i=0;i<before.Length-1;i++)
             {
                 int smallest = before[i];
                 for (int j= i+1;j<before.Length;j++)
