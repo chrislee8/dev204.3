@@ -1,0 +1,11 @@
+/Users/chris.lee/MKL/dev204.3/DaysEnum/bin/Debug/netcoreapp2.1/DaysEnum.deps.json
+/Users/chris.lee/MKL/dev204.3/DaysEnum/bin/Debug/netcoreapp2.1/DaysEnum.runtimeconfig.json
+/Users/chris.lee/MKL/dev204.3/DaysEnum/bin/Debug/netcoreapp2.1/DaysEnum.runtimeconfig.dev.json
+/Users/chris.lee/MKL/dev204.3/DaysEnum/bin/Debug/netcoreapp2.1/DaysEnum.dll
+/Users/chris.lee/MKL/dev204.3/DaysEnum/bin/Debug/netcoreapp2.1/DaysEnum.pdb
+/Users/chris.lee/MKL/dev204.3/DaysEnum/obj/Debug/netcoreapp2.1/DaysEnum.csprojAssemblyReference.cache
+/Users/chris.lee/MKL/dev204.3/DaysEnum/obj/Debug/netcoreapp2.1/DaysEnum.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/dev204.3/DaysEnum/obj/Debug/netcoreapp2.1/DaysEnum.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/dev204.3/DaysEnum/obj/Debug/netcoreapp2.1/DaysEnum.AssemblyInfo.cs
+/Users/chris.lee/MKL/dev204.3/DaysEnum/obj/Debug/netcoreapp2.1/DaysEnum.dll
+/Users/chris.lee/MKL/dev204.3/DaysEnum/obj/Debug/netcoreapp2.1/DaysEnum.pdb
