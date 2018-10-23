@@ -1,0 +1,11 @@
+/Users/chris.lee/MKL/dev204.3/CarStruct/bin/Debug/netcoreapp2.1/CarStruct.deps.json
+/Users/chris.lee/MKL/dev204.3/CarStruct/bin/Debug/netcoreapp2.1/CarStruct.runtimeconfig.json
+/Users/chris.lee/MKL/dev204.3/CarStruct/bin/Debug/netcoreapp2.1/CarStruct.runtimeconfig.dev.json
+/Users/chris.lee/MKL/dev204.3/CarStruct/bin/Debug/netcoreapp2.1/CarStruct.dll
+/Users/chris.lee/MKL/dev204.3/CarStruct/bin/Debug/netcoreapp2.1/CarStruct.pdb
+/Users/chris.lee/MKL/dev204.3/CarStruct/obj/Debug/netcoreapp2.1/CarStruct.csprojAssemblyReference.cache
+/Users/chris.lee/MKL/dev204.3/CarStruct/obj/Debug/netcoreapp2.1/CarStruct.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/dev204.3/CarStruct/obj/Debug/netcoreapp2.1/CarStruct.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/dev204.3/CarStruct/obj/Debug/netcoreapp2.1/CarStruct.AssemblyInfo.cs
+/Users/chris.lee/MKL/dev204.3/CarStruct/obj/Debug/netcoreapp2.1/CarStruct.dll
+/Users/chris.lee/MKL/dev204.3/CarStruct/obj/Debug/netcoreapp2.1/CarStruct.pdb
