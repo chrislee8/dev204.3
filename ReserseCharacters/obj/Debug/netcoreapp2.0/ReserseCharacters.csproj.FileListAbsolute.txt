@@ -1,0 +1,10 @@
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/bin/Debug/netcoreapp2.0/ReserseCharacters.deps.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/bin/Debug/netcoreapp2.0/ReserseCharacters.runtimeconfig.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/bin/Debug/netcoreapp2.0/ReserseCharacters.runtimeconfig.dev.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/bin/Debug/netcoreapp2.0/ReserseCharacters.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/bin/Debug/netcoreapp2.0/ReserseCharacters.pdb
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/obj/Debug/netcoreapp2.0/ReserseCharacters.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/obj/Debug/netcoreapp2.0/ReserseCharacters.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/obj/Debug/netcoreapp2.0/ReserseCharacters.AssemblyInfo.cs
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/obj/Debug/netcoreapp2.0/ReserseCharacters.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/ReserseCharacters/obj/Debug/netcoreapp2.0/ReserseCharacters.pdb
