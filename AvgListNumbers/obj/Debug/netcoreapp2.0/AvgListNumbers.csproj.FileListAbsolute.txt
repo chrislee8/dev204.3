@@ -1,0 +1,10 @@
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/bin/Debug/netcoreapp2.0/AvgListNumbers.deps.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/bin/Debug/netcoreapp2.0/AvgListNumbers.runtimeconfig.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/bin/Debug/netcoreapp2.0/AvgListNumbers.runtimeconfig.dev.json
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/bin/Debug/netcoreapp2.0/AvgListNumbers.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/bin/Debug/netcoreapp2.0/AvgListNumbers.pdb
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/obj/Debug/netcoreapp2.0/AvgListNumbers.csproj.CoreCompileInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/obj/Debug/netcoreapp2.0/AvgListNumbers.AssemblyInfoInputs.cache
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/obj/Debug/netcoreapp2.0/AvgListNumbers.AssemblyInfo.cs
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/obj/Debug/netcoreapp2.0/AvgListNumbers.dll
+/Users/chris.lee/MKL/DataStructuresAndAlgorithms/dev204.3/AvgListNumbers/obj/Debug/netcoreapp2.0/AvgListNumbers.pdb
